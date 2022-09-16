@@ -1,5 +1,5 @@
 import math
-"""
+
 # 1
 ar = int(input("mennyibe kerül 1kg krumpli? "))
 kg = int(input("hany kg-ot szeretnél venni? "))
@@ -58,5 +58,5 @@ print(round((szelesseg*hossz)/5))
 szam1 = int(input("adjon meg egy egesz szamot: "))
 szam2 = int(input("adjon meg egy egesz szamot: "))
 print(math.sqrt(szam1+szam2))
-"""
+
 # 10
